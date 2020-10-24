@@ -101,7 +101,7 @@ class _PokelistState extends State<Pokelist> {
                         ),
                         new Container(
                           child: new Text(
-                            " Type: ${snapshot.data.type}\n Speed: ${snapshot.data.speed}\n Legendary: ${snapshot.data.legendary}",
+                            "Type: ${snapshot.data.type}\n Speed: ${snapshot.data.speed}\n Legendary: ${snapshot.data.legendary}",
                             style: TextStyle(fontSize: 25),
                           ),
                         ),

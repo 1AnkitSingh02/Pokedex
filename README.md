@@ -1,6 +1,17 @@
 # pokedex
 
-A new Flutter project.
+I wanted to make a very cool Pokedex but look at me procrastinating T_T.
+Aight will completed it later. I gotta make it's UI better :') .  
+
+Currently you can search any Pokemon in this and it will present you with it's 
+stats and picture. It uses my PokeApi that I created with Flask ( look at the repo with same name).
+
+Features (that I want to include):
+1. Identify Pokemon by pointing camera toward picture or just by uploading it.
+2. Poke Fights ( I mean comparing two pokemon and better stats win yay)
+3. Only above two but three points look cool.
+
+
 
 ## Getting Started
 
